@@ -1,0 +1,18 @@
+{
+    "Produtos":[
+        {
+            "nome":"Arroz",
+            "preco":10.00,
+            "quantidade":500,
+            "desconto":10,
+            "disponibilidade":true
+        },
+        {
+            "nome":"Feijão",
+            "preco":11.00,
+            "quantidade":500,
+            "desconto":10,
+            "disponibilidade":true
+        }
+    ]
+}
